@@ -1,2 +1,2 @@
 # stepik-tauto-test-course
-stepik auto-test course will be here
+home tasks from modules will be in this repository
